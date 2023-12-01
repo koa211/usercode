@@ -1,0 +1,19 @@
+{
+  "workbench.colorTheme": "Visual Studio Dark",
+  "terminal.integrated.profiles.linux": {
+      "mybash": {
+        "path": "bash",
+        "args": ["--rcfile", "/usercode/.vscode/mybashrc.sh"],
+        "open": true,
+        "focus": false
+      }
+    },
+    "terminal.integrated.letterSpacing": 0,
+    "terminal.integrated.defaultProfile.linux": "mybash",
+    "code-runner.executorMap":{
+      "cpp": "cd /usercode && clear && printf 'build and run with :\\033[48;5;33m\\033[1;38;5;226m make && ./mud.bin \\033[0m \\n' "
+    },
+    "files.associations": {
+      "iosfwd": "cpp"
+    }
+}

@@ -1,0 +1,44 @@
+tar -xzf jsondata.tar.gz 
+rm -rf data
+tar -xzf jsondata.tar.gz 
+ll data
+ll data/areas/
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/utils.cpp"
+make
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/utils.cpp"
+make
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/utils.cpp"
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/Room.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/utils.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/World.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/World.cpp"
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/Room.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/Room.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/Doors.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/World.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/Doors.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/Doors.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/utils.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/World.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/World.cpp"
+make
+make && ./mud.bin
+make
+make && ./mud.bin
+make
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/World.cpp"
+make && ./mud.bin
+cd /usercode && clear && printf 'build and run with :\033[48;5;33m\033[1;38;5;226m make && ./mud.bin \033[0m \n'  "/usercode/World.cpp"
